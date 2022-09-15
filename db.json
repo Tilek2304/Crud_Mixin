@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": "fce4d095",
+            "name": "Sherlock",
+            "last_name": "Holmes",
+            "birth_day": "21.12.1982",
+            "age": 39
+        }
+    ],
+    "counter": 1
+}
